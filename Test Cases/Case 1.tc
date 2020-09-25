@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>User Login successfully with valid account</description>
-   <name>Login with valid account</name>
+   <name>Case 1</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>41ead8ad-d59f-44c1-a806-6112aab37f3f</testCaseGuid>
