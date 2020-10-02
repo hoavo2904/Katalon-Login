@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with a long username and password</description>
+   <name>Case 6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5c818a6-2d29-4829-bb26-3f064c775795</testCaseGuid>
+</TestCaseEntity>

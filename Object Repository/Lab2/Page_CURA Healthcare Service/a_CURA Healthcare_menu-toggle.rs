@@ -3,13 +3,8 @@
    <description></description>
    <name>a_CURA Healthcare_menu-toggle</name>
    <tag></tag>
-   <elementGuidId>eade428e-df86-4194-908d-14da0abe26d8</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>942bae97-175c-4b91-b6fa-555bc4e8cbd4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'menu-toggle' and @href = '#']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#menu-toggle</value>
@@ -17,10 +12,6 @@
       <entry>
          <key>XPATH</key>
          <value>//a[@id='menu-toggle']</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
