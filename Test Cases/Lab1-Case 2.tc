@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with invalid password</description>
+   <name>Lab1-Case 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4644acf-8afc-42c6-a8f6-92be3e5be728</testCaseGuid>
+</TestCaseEntity>

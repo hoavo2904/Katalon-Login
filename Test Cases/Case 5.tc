@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Login with username and password is space</description>
-   <name>Case 5</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>5271e9a7-b9ae-467c-bb0a-beb66acd3218</testCaseGuid>
-</TestCaseEntity>
