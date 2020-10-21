@@ -28,7 +28,7 @@ WebUI.setEncryptedText(findTestObject('Lab2/input_Password_password'), 'g3/DOGG7
 
 WebUI.sendKeys(findTestObject('Lab2/input_Password_password'), Keys.chord(Keys.ENTER))
 
-WebUI.waitForElementPresent(findTestObject('Lab2/a_Make Appointment'), 1)
+WebUI.waitForElementPresent(findTestObject('Lab2/a_Make Appointment'), 30)
 
 WebUI.verifyElementText(findTestObject('Lab2/a_Make Appointment'), 'Make Appointment')
 

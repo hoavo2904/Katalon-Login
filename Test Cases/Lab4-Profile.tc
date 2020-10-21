@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Case 7 - Send mail</name>
+   <name>Lab4-Profile</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4f5ddaeb-e385-4dbb-a993-44ef5ad2b0d6</testCaseGuid>
+   <testCaseGuid>80f8f795-88bb-479a-aa17-e608998afcf1</testCaseGuid>
 </TestCaseEntity>
